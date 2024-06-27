@@ -30,10 +30,6 @@ h1{
 .caixa-perguntas{
     padding-bottom: 10px;
 }
-/* código css parte 1 */
-
-/* código css parte 2 */
-
 
 button{
     background-color: var(--cor-secundaria);
@@ -43,7 +39,7 @@ button{
     padding: 15px;
     transition: background-color 0.3s;
 }
-/* botão com efeito de mouse */
+
 button:hover{
     background-color: var(--cor-destaque);
     color: var(--cor-principal);
